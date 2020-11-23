@@ -1,0 +1,3 @@
+python 003_Create_Deepest_model_CRIMINAL.py
+python 003_Create_XGBoost_model_CRIMINAL.py
+python 003_Create_RandomForest_CRIMINAL.py

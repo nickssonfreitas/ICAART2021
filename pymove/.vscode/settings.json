@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/nicksson/miniconda3/envs/tnz/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true
+}
